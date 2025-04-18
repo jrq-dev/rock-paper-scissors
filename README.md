@@ -1,21 +1,19 @@
-📦 Rock Paper Scissors Game
-📝 Description
-A simple Rock Paper Scissors game built using raw JavaScript, HTML, and CSS — no libraries, no frameworks!
-The goal of this project is to practice core web development skills by creating a classic, interactive browser-based game from scratch.
+# 📦 Rock Paper Scissors Game
 
-🎮 Features
-Interactive player vs computer gameplay
+📝 Description A simple Rock Paper Scissors game built using raw JavaScript, HTML, and CSS — no libraries, no frameworks! The goal of this project is to practice core web development skills by creating a classic, interactive browser-based game from scratch.
 
-Clean, responsive layout with CSS styling
+## 🎮 Features Interactive player vs computer gameplay
 
-Simple and beginner-friendly code structure
+- Clean, responsive layout with CSS styling
 
-💻 Tech Stack
-HTML
+- Simple and beginner-friendly code structure
 
-CSS
+### 💻 Tech Stack
 
-JavaScript (Vanilla)
+- CSS
+- HTML
+- JAVSCRIPT
 
-📌 Purpose
+#### 📌 Purpose
+
 This project is part of my personal practice to strengthen my frontend skills and better understand DOM manipulation, event handling, and basic game logic without relying on external libraries.
