@@ -4,11 +4,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/index.css" />
+    <script type="module" src="js/app.js"></script>
     <title> Rock Paper Scissors </title>
 </head>
 
 <body>
     <h1> Rock Paper Scissors </h1>
+    <div class="msg-wrapper">
+        <p class="msg"></p>
+    </div>
+    <div class="container-hand-wrapper">
+        <div class="user-view">
+            <h2>You</h2>
+        </div>
+        <div class="computer-view">
+            <h2>Computer</h2>
+        </div>
+    </div>
+    <div class="move-container">
+        <ul class="move-list">
+            <li class="rock"> <button type="button" data-name="rock"> Rock </button></li>
+            <li class="scissors"> <button type="button" data-name="sci"> Scissors</button></li>
+            <li class="paper"> <button type="button" data-name="paper"> Paper </button></li>
+        </ul>
+    </div>
 </body>
 
 </html>

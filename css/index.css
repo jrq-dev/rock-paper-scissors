@@ -1,0 +1,35 @@
+.container-hand-wrapper {
+  display: grid;
+  grid-template-columns: auto auto;
+  text-align: center;
+}
+
+.container-hand-wrapper > div {
+  border: 1px solid black;
+}
+
+.container-hand-wrapper > div:first-child {
+  margin-right: 20px;
+}
+
+.container-hand-wrapper h2 {
+  text-transform: uppercase;
+  background-color: black;
+  color: white;
+  margin-top: 0;
+  padding: 15px;
+}
+
+.move-container ul {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  text-align: center;
+}
+
+.move-container ul li {
+  list-style: none;
+}
+
+.move-container .move-list {
+  justify-content: center;
+}
